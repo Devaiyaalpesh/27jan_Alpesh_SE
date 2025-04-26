@@ -1,0 +1,28 @@
+enter id of sudent ID:34
+enter id of sudent Name:zczc
+
+==============================
+enter id of sudent ID:23
+enter id of sudent Name:wer
+
+==============================
+enter id of sudent ID:235
+enter id of sudent Name:sfdfsd
+
+==============================
+ID:23
+Name:tsgf
+
+==============================
+ID:24
+Name:sdfs
+
+==============================
+ID:35
+Name:ghhf
+
+==============================
+ID:1
+Name:sf
+
+==============================
